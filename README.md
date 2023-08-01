@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f797e&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5f797e&size=35&center=true&vCenter=true&width=1000&lines=Olá+Meu+Nome+é+Enzo+Rodrigues+Ribeiro;Tenho+18+Anos;Sou+do+Brasil+e+moro+em+Brasília;Estou+Cursando+Ciência+da+Computação;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5f797e&size=35&center=true&vCenter=true&width=1000&lines=Olá+Me+Chamo+Enzo+Rodrigues+Ribeiro;Tenho+18+Anos;Sou+do+Brasil+e+moro+em+Brasília;Estou+Cursando+Ciência+da+Computação;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eznrr&show_icons=true&count_private=true&hide_border=true&title_color=5f797e&icon_color=5f797e&text_color=c9d1d9&bg_color=0d1117" alt="Enzo Rodrigues Ribeiro github stats" /> 
